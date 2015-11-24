@@ -7,8 +7,12 @@
 	[
 		"BracketHighlighter",
 		"DocBlockr",
+		"Emmet",
+		"jQuery",
 		"Git",
 		"Package Control",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
 		"Theme - itg.flat"
 	]
 }
