@@ -8,9 +8,10 @@
 		"BracketHighlighter",
 		"DocBlockr",
 		"Emmet",
-		"jQuery",
 		"Git",
+		"jQuery",
 		"Package Control",
+		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-jshint",
 		"Theme - itg.flat"
