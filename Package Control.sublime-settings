@@ -18,6 +18,7 @@
 		"SublimeLinter",
 		"SublimeLinter-jshint",
 		"Syntax Highlighting for Sass",
-		"Theme - itg.flat"
+		"Theme - itg.flat",
+		"WordCount"
 	]
 }
